@@ -19,6 +19,6 @@
 
 - **HTML5** – Page structure  
 - **CSS3** – Styling and layout  
-- **JavaScript (ES6)** – Application logic and interactivity 
+- **JavaScript ** – Application logic and interactivity 
 
 
